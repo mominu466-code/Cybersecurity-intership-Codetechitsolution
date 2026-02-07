@@ -1,0 +1,6 @@
+cryptography
+requests
+beautifulsoup4
+python-docx
+reportlab
+colorama
